@@ -1,0 +1,11 @@
+student_id,name,mark1,mark2,mark3,final_mark,grade
+S001,Aisha Rahman,92.0,88.0,95.0,92.0,HD
+S002,Liam O'Connor,78.0,72.0,80.0,77.0,DN
+S003,Mei Chen,65.0,70.0,68.0,67.7,CR
+S004,Tariq Hussain,55.0,60.0,52.0,55.3,PS
+S005,Sofia Martinez,40.0,35.0,45.0,40.5,FL
+S006,Noah Williams,85.0,79.0,82.0,82.0,DN
+S007,Priya Patel,70.0,66.0,74.0,70.4,CR
+S008,Jack Thompson,50.0,48.0,55.0,51.4,PS
+S009,Hana Suzuki,98.0,94.0,91.0,94.0,HD
+S010,Ethan Brown,30.0,42.0,38.0,36.8,FL

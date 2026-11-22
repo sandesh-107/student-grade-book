@@ -1,0 +1,44 @@
+test_id_not_reused_after_delete (test_gradebook.TestGradebook.test_id_not_reused_after_delete) ... ok
+test_ranking_order (test_gradebook.TestGradebook.test_ranking_order) ... ok
+test_search_case_insensitive_multiple (test_gradebook.TestGradebook.test_search_case_insensitive_multiple) ... ok
+test_unique_ids (test_gradebook.TestGradebook.test_unique_ids) ... ok
+test_unknown_id (test_gradebook.TestGradebook.test_unknown_id) ... ok
+test_update_mark_recalculates (test_gradebook.TestGradebook.test_update_mark_recalculates) ... ok
+test_boundaries (test_gradebook.TestGrades.test_boundaries) ... ok
+test_final_mark_weighting (test_gradebook.TestGrades.test_final_mark_weighting) ... ok
+test_add_with_bad_input_saves_on_exit (test_gradebook.TestMenuFlow.test_add_with_bad_input_saves_on_exit) ... ok
+test_closed_input_saves_and_exits (test_gradebook.TestMenuFlow.test_closed_input_saves_and_exits) ... ok
+test_delete_needs_confirmation (test_gradebook.TestMenuFlow.test_delete_needs_confirmation) ... ok
+test_invalid_choice_then_exit (test_gradebook.TestMenuFlow.test_invalid_choice_then_exit) ... ok
+test_update_and_search (test_gradebook.TestMenuFlow.test_update_and_search) ... ok
+test_view_when_empty (test_gradebook.TestMenuFlow.test_view_when_empty) ... ok
+test_already_sorted_and_reversed (test_gradebook.TestMergeSort.test_already_sorted_and_reversed) ... ok
+test_empty_and_single (test_gradebook.TestMergeSort.test_empty_and_single) ... ok
+test_ranking_ties_sorted_by_name (test_gradebook.TestMergeSort.test_ranking_ties_sorted_by_name) ... ok
+test_sorts_and_does_not_change_input (test_gradebook.TestMergeSort.test_sorts_and_does_not_change_input) ... ok
+test_stable_for_equal_keys (test_gradebook.TestMergeSort.test_stable_for_equal_keys) ... ok
+test_empty (test_gradebook.TestRecursion.test_empty) ... ok
+test_single_and_many (test_gradebook.TestRecursion.test_single_and_many) ... ok
+test_empty_returns_none (test_gradebook.TestReport.test_empty_returns_none) ... ok
+test_values (test_gradebook.TestReport.test_values) ... ok
+test_bad_rows_skipped (test_gradebook.TestStorage.test_bad_rows_skipped) ... ok
+test_creates_missing_file (test_gradebook.TestStorage.test_creates_missing_file) ... ok
+test_round_trip (test_gradebook.TestStorage.test_round_trip) ... ok
+test_float_accepts_boundaries (test_gradebook.TestValidation.test_float_accepts_boundaries) ... ok
+test_float_rejects_bad_values (test_gradebook.TestValidation.test_float_rejects_bad_values) ...   Please enter a number.
+  Please enter a number.
+  Value must be between 0 and 100.
+  Value must be between 0 and 100.
+  Please enter a real number.
+  Please enter a real number.
+ok
+test_text_reprompts_on_empty (test_gradebook.TestValidation.test_text_reprompts_on_empty) ...   Input can't be empty. Try again.
+  Input can't be empty. Try again.
+ok
+test_yes_no (test_gradebook.TestValidation.test_yes_no) ...   Please type Y or N.
+ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.011s
+
+OK
